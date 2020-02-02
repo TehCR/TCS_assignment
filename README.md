@@ -1,5 +1,8 @@
-# TCS_assignment
-
+# TCS_assignment TLT 
+  Teh Chun Rong
+  Lai Yan Bo
+  TAi Jia Wei 
+# https://github.com/goodjujuu/TCS2251-Assignment
 A01 V8j+^
 A02 J2b@#
 A03 L3n$*
